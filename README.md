@@ -1,5 +1,5 @@
-# run foot_pose_box.py to get keypoint of the cropped foot box image
-# run foot_pose_tfrecords.py to make tfrecords
+### run foot_pose_box.py to get keypoint of the cropped foot box image
+### run foot_pose_tfrecords.py to make tfrecords
 
 https://arxiv.org/abs/2006.10204
 
